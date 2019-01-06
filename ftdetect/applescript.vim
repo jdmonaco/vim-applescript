@@ -1,2 +1,2 @@
 " Applescript
-au! BufNewFile,BufRead *.applescript   setf applescript
+au! BufNewFile,BufRead *.applescript,*.scpt   setf applescript
